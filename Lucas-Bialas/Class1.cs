@@ -8,5 +8,6 @@ namespace Lucas_Bialas
 {
     internal class Class1
     {
+    int var;
     }
 }
